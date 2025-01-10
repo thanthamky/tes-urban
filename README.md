@@ -16,7 +16,7 @@ The workshop introduces breif fundamental of remote sensing data analysis in ord
 
 - [Cellular Automata Markov Chain](https://colab.research.google.com/github/thanthamky/tes-urban/blob/main/simple_ca-markov.ipynb)
 
-## GIS Usecase applictions
+## GIS Usecase applications
 
 - [KASSINI-AI](http://kassini.ai:8000/)
 - [ESTIC-AI](http://kassini.ai:9090/)
