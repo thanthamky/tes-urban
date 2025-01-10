@@ -10,7 +10,11 @@ The workshop introduces breif fundamental of remote sensing data analysis in ord
 
 - [1. Remote Sensing Basics](https://colab.research.google.com/github/thanthamky/tes-urban/blob/main/1_remote-sensing-exploration.ipynb)
 - [2. LULC Clasification and Cellular Automata Markov](https://colab.research.google.com/github/thanthamky/tes-urban/blob/main/2_urban-expansion-analysis.ipynb)
-- [3. Map Application publish](https://colab.research.google.com/github/thanthamky/tes-urban/blob/main/2_urban-expansion-analysis.ipynb)
+- [3. Map Application publish](https://colab.research.google.com/github/thanthamky/tes-urban/blob/main/3_publish_map.ipynb)
+
+## Side resources
+
+- [Cellular Automata Markov Chain](https://colab.research.google.com/github/thanthamky/tes-urban/blob/main/simple_ca-markov.ipynb)
 
 ## GIS Usecase applictions
 
