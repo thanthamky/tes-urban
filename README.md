@@ -12,6 +12,11 @@ The workshop introduces breif fundamental of remote sensing data analysis in ord
 - [2. LULC Clasification and Cellular Automata Markov](https://colab.research.google.com/github/thanthamky/tes-urban/blob/main/2_urban-expansion-analysis.ipynb)
 - [3. Map Application publish](https://colab.research.google.com/github/thanthamky/tes-urban/blob/main/2_urban-expansion-analysis.ipynb)
 
+## Kassini Sample Data
+
+- [Business Financial Data](https://github.com/thanthamky/tes-urban/raw/refs/heads/main/finance_2018-2023.csv)
+- [Business Location Data](https://github.com/thanthamky/tes-urban/raw/refs/heads/main/location_homepro.csv)
+
 ### Authors
 
 - Prof. Teeraphap Fakthong
