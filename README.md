@@ -30,5 +30,5 @@ The workshop introduces breif fundamental of remote sensing data analysis in ord
 
 ### Authors
 
-- Prof. Teeraphap Fakthong
+- Prof. Tiraphap  Fakthong
 - Mr.Thantham Khamyai
